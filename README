@@ -1,0 +1,3 @@
+Compile:
+gcc -g -o -lpthread server server.c checksum.c
+g++ -g -o client.cpp
